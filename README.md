@@ -1,8 +1,21 @@
 
 ## 💫 About Me:
-👋🏽 Greetings! I'm Sanket, a data enthusiast dedicated to helping businesses navigate their complex data and derive meaningful insights <br><br>🌇 I hold a Master of Science degree in Data Science/Analytics from the University at Buffalo. As an international student, I'm striving to realize the American Dream, continuously learning through diverse mediums to fuel my growth in the Data Science field<br><br>📚 As a Certified Data Scientist/Analyst, I've gained substantial experience in uncovering valuable insights from data, utilizing various Machine Learning tools, Statistical Data Analysis, and Visualization. I pride myself in addressing real-world challenges through a data-driven approach and possess hands-on experience and comprehensive understanding of Machine Learning models, ETL, Data Warehousing, and Data Mining concepts. <br>
+👋🏽 Greetings! I'm Sanket, a data engineer and analyst who loves building things that turn messy, complex data into something actually useful.
+ 
+🎓 I hold a Master of Science in Engineering (Data Science/Analytics) from the University at Buffalo, and a Bachelor's in Mechanical Engineering — a combination that's shaped how I think about systems, data flows, and problem-solving from first principles.
+ 
+📚 Over the past 5 years at Deutsche Bank, I've owned two enterprise compliance applications end-to-end as a Client Service Manager — building automated ETL pipelines that process 131 daily broker feeds, engineering Power BI dashboards adopted org-wide, and driving reporting automation that reduced L2 workload by 73%. I work across SQL, Python, Shell Scripting, Oracle, and GCP, and I'm currently contributing to a cloud migration modernizing compliance data infrastructure on BigQuery, GKE, and Cloud Storage.
+ 
+💻 Outside of work, I independently designed and built MktMoves (mktmoves.com) — a production-grade SEC filing intelligence platform that processes 2.6M+ institutional filings through a fault-tolerant Airflow pipeline, served via FastAPI, with a Next.js frontend. Sole engineer, sole owner. Because solving real data problems doesn't stop at 5pm.
+ 
+🏢 I'm currently based in Austin, TX, and actively exploring Senior Data Analyst, BI Engineer, and Data Engineer opportunities where I can build scalable data systems and deliver insight that actually moves the needle.
+ 
+🏔 Outside of data — soccer, workouts, gaming, road trips, and the occasional beach day keep me grounded.
+ 
+💪🏽 Core strengths: ownership mentality, systems thinking, cross-functional communication, and a bias toward automation over manual work.
+ 
+📩 Reach me at: chavansanket193@gmail.com — always open to interesting conversations.
 
-🏢 Currently, I'm serving as a Data Analyst/System Software Engineer in the compliance division of Deutsche Bank. My daily responsibilities span from managing compliance applications, debugging code, validating data feeds, building ETL data pipelines to meet stakeholder requirements, and developing automation utilities to reduce laborious tasks. I act as a primary point of contact for business users (Compliance officers) and senior stakeholders, delivering analysis and ad-hoc reports on compliance application data.<br><br>💻 Looking ahead, my aspiration is to lead a robust team of data engineers/scientists and catalyze revenue growth by spearheading the development of innovative features/products for the organization. <br><br>🏔  In my leisure time, I enjoy playing soccer, keeping fit, gaming, unwinding at the beach, and embarking on road trips.<br><br>💪🏽 Among my core strengths are my team-playing spirit, business acumen, adaptability, keen research skills, and critical thinking capabilities.<br><br><br>Thank you for visiting my Profile
 
 
 ## 🌐 Socials:
